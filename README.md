@@ -1,4 +1,4 @@
-## Necessario
+## Necessário
 -NODE versão 12 >
 
 -Angular CLI versão 9 >
@@ -42,6 +42,8 @@ Realizar o calculo do botão Sacar, existe uma taxa seguindo o seguinte padrão.
 A mesma deve ser aplicada comparando o amount e type da transação.
 
 ## JSON Mockado
+```
+{
 transations:[
 {
 	amount: 40,
@@ -67,5 +69,6 @@ transations:[
 	typeName: 'Debito',
 	statusType: 2,
 	statusName: 'Sacado'
+}]
 }
-]
+```
