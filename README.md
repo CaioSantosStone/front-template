@@ -51,25 +51,33 @@ transations:[
 	type: 1,
 	typeName: 'Crédito',
 	statusType: 1,
-	statusName: 'Pendente'
+	statusName: 'Pendente',
+	availableData: '02/09/2022', 
+	withdrawDate: null
 },{
 	amount: 30,
 	type: 1,
 	typeName: 'Debito',
 	statusType: 1,
-	statusName: 'Pendente'
+	statusName: 'Pendente',
+	availableData: '02/09/2022', 
+	withdrawDate: null
 },{
 	amount: 30,
 	type: 1,
 	typeName: 'Debito',
 	statusType: 1,
-	statusName: 'Pendente'
+	statusName: 'Pendente',
+	availableData: '02/09/2022', 
+	withdrawDate: null
 },{
 	amount: 30,
 	type: 1,
 	typeName: 'Debito',
 	statusType: 2,
-	statusName: 'Sacado'
+	statusName: 'Sacado',
+	availableData: '02/09/2022', 
+	withdrawDate: null
 }]
 }
 ```
