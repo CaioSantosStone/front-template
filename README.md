@@ -38,6 +38,7 @@ Realizar o calculo do botão Sacar, existe uma taxa seguindo o seguinte padrão.
 
 
 -Taxa de debito: 0,4
+
 -Taxa de credito: 1,67
 
 A mesma deve ser aplicada comparando o amount e type da transação.
