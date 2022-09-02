@@ -1,5 +1,3 @@
-#### Inicio ####
-
 ## Necessario
 -NODE versão 12 >
 
